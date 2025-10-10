@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 3f2dbf23d153a3b4dac7020b15dc0c9c
+  m_SerializeEntries:
+  - m_GUID: 0aa1cfcdb6c8c2543bf8f7353857bf4b
+    m_Address: Assets/Prefabs/Chest Panel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - panel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38f186a2b72c88140b5d9d78be94cbc2
+    m_Address: Assets/SO/RankSO S.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - rank
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c2623c6ca1f3924fba1c150ec89c4bd
+    m_Address: Assets/Prefabs/Menu Panel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - panel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f18eaf790d340243a7afeed15f6f7cd
+    m_Address: Assets/Prefabs/Talk Panel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - panel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66577dcc7b6dba7458b70f1c5aa293f4
+    m_Address: Assets/SO/ItemSO Fern.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97e091f446fb9ca4aa5f6a5137d9c5a6
+    m_Address: Assets/SO/ItemSO Frieren.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab52c07971535f64686b5c57ad3281fc
+    m_Address: Assets/SO/RankSO A.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - rank
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cce3d95f4e8007e419465a6780906231
+    m_Address: Assets/Prefabs/Inventory Panel Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - panel
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 101ee322d36eb004e91a2173add00edd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06f7e75b3d0c7994987530fc1270a41f, type: 2}
+    - {fileID: 11400000, guid: 0969066d58cf132499a8adb0128a3e80, type: 2}
